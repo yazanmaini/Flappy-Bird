@@ -13,8 +13,6 @@ Screenshot:
 
 <img width="309" alt="screen shot 2019-02-04 at 7 53 36 pm" src="https://user-images.githubusercontent.com/44656583/52252318-a510a080-28b6-11e9-89e7-10bd17544ce9.png">
 
-Giphy:
-
-![](flying-pupp giphy.gif)
+Giphy preview : locate 'flying-pupp giphy.gif' in files of this repository. 
 
 
