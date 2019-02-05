@@ -15,7 +15,7 @@ Screenshot:
 
 Giphy:
 
-![](flying-pupp giphy.gif)
+![] (flying-pupp giphy.gif)
 
 
 
