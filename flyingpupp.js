@@ -78,5 +78,4 @@ function draw() {
   ctx.fillText("Score: " + score, 10, cvs.height - 20);
   requestAnimationFrame(draw);
 }
-
-document.onload = draw();
+draw();
