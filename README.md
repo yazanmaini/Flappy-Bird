@@ -7,7 +7,7 @@ Funtionalitites;
 
 - Game restarts if the dog hits an obstacle.
 
-- player will use down-key to help the dog jump and get pass the obstacles.
+- player will use down-arrow key to help the dog jump and get pass the obstacles.
 
 Screenshot:
 
